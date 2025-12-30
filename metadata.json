@@ -1,0 +1,5 @@
+{
+  "name": "Writing Style Pattern Generator",
+  "description": "Generate text in a specific writing style on any topic using the Gemini API.",
+  "requestFramePermissions": []
+}
